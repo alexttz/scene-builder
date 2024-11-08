@@ -19,10 +19,10 @@ public class MenuController {
 
     @FXML
     void abrirTelaAnimal(ActionEvent event) throws IOException {
-        FXMLLoader fxmlLoader = new FXMLLoader(getClass().getResource("menu-view.fxml"));
+        FXMLLoader fxmlLoader = new FXMLLoader(getClass().getResource("animal-view.fxml"));
         Parent root = fxmlLoader.load();
         Stage stage = new Stage();
-        stage.setTitle("Cadastrar Grupo");
+        stage.setTitle("Animal");
         stage.setScene(new Scene(root));
         stage.show();
         }
