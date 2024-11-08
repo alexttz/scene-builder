@@ -1,4 +1,5 @@
 Java Study Repository - SceneBuilder Frontend
+
 Welcome to my Java study repository! This project is dedicated to learning and experimenting with Java development, specifically focusing on building GUIs using JavaFX and SceneBuilder for the frontend.
 
 Overview
